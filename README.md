@@ -1,0 +1,2 @@
+# Obsidian-assets
+Obsidian attachments
